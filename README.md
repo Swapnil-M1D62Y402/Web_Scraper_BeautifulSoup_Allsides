@@ -11,7 +11,7 @@ The Project is divided into two Parts:
 
 #To clone this project 
 ```bash
-git clone 
+git clone https://github.com/Swapnil-M1D62Y402/Web_Scraper_BeautifulSoup_Allsides.git
 ```
 
 #Package Requirements
@@ -29,6 +29,12 @@ pip install matplotlib.pyplot as plt
 
 ## Instructions 
 Brief Notes is included at the top of  the `web_scraper_prototype.py file`. 
+![website_inspect_table](https://github.com/user-attachments/assets/e7f8db18-11d8-4d3f-8873-399bb37aa677)
+![image](https://github.com/user-attachments/assets/5ec76b36-bcd1-4b4e-88f1-d1baa674f710)
+
+# Output
+
+![Output1](https://github.com/user-attachments/assets/2aed335b-9e30-4712-bfe5-6493af9279c4)
 
 ## Contributing
 
